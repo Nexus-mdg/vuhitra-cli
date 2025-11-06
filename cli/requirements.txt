@@ -1,0 +1,12 @@
+# Vuhitra CLI - Python Dependencies
+# This file will be populated in Step 3: CLI Dockerfile
+
+# TODO: Add dependencies in the following categories:
+# - AI/ML: ollama, etc.
+# - NLP: spacy, vaderSentiment
+# - Data Analytics: pandas, numpy, scikit-learn
+# - Database Clients: redis, elasticsearch
+# - Spark: pyspark
+# - Utilities: python-dotenv, click, pydantic
+
+# Placeholder - will be populated during implementation

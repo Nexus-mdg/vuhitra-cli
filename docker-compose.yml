@@ -1,0 +1,23 @@
+# Vuhitra CLI - Docker Compose Configuration (Placeholder)
+# This will be fully implemented in Step 2: Docker Compose Foundation
+
+# TODO: Implement full docker-compose.yml with:
+# - CLI service with build context and volume mounts
+# - Redis service (>= 7.2)
+# - Elasticsearch service
+# - Apache Spark service (ghcr.io/nexus-mdg/spark-3.5:latest)
+# - Sandbox service with shared volumes
+# - Networks configuration
+# - Volume definitions
+# - Healthchecks for all services
+# - Environment variable configuration
+
+version: '3.8'
+
+services:
+  # Placeholder - services to be implemented in Step 2
+  cli:
+    image: alpine:latest
+    command: echo "Docker Compose to be implemented in Step 2"
+
+# TODO: Add networks and volumes
